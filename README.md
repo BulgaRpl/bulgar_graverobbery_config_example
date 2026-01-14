@@ -1,0 +1,2 @@
+# bulgar_graverobbery_config_example
+bulgar_graverobbery_config_example
