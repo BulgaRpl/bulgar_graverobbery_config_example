@@ -67,6 +67,8 @@ Config.ItemName2 = 'small_shovel' -- Need to end robbing and open chest
 
 -- Some Settings
 Config.UseNonSyncedScenario = true -- If “true” is used, a scenario for obtaining the box will be used, but please note that it will not be visible to other players due to OneSync limitations. / If “false” is used, my method will be used fully synced, which is very similar but not so accurate.
+Config.RobberyOnlyInHours = false -- If “true” the robbery will be only allowed between Config.RobberyHours in game time
+Config.RobberyHours = { open = 21, closed = 6 } -- Configuration for Config.RobberyOnlyInHours
 Config.RobberyTime = 10000 -- 10 Seconds / Recommended time
 Config.CooldownRobbery = 15 -- 15 Seconds break before allowing next one
 Config.GraveCooldown = 30 -- 30 Min cooldown for single grave when robbed for all players
