@@ -119,6 +119,7 @@ Config.Language = { -- ITS CONFIGURED HERE AFTER U GET THE SCRIPT
     [18] = {text = "EXAMPLE TRANSLATION",},
     [19] = {text = "EXAMPLE TRANSLATION",},
     [20] = {text = "EXAMPLE TRANSLATION",},
+    [21] = {text = "EXAMPLE TRANSLATION",},
 }
 
 -- Notifications
