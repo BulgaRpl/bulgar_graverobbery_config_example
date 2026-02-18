@@ -97,6 +97,18 @@ Config.Objects = { -- ITS CONFIGURED HERE AFTER U GET THE SCRIPT
 	-- AND 46 MORE PRECONFIGURED HERE AFTER U GET THE SCRIPT
 }
 
+-- Blocked Areas
+Config.ExcludedRobberyZones = {
+    -- {
+        -- coords = vector3(-236.91, 822.73, 124.01), -- BLOCKED VALENTINE EXAMPLE
+        -- range = 100.0 -- In this range player cannot rob any grave
+    -- },
+    -- {
+        -- coords = vector3(-1001.43, -1191.78, 59.1), -- BLOCKED BLACKWATER EXAMPLE
+        -- range = 100.0 -- In this range player cannot rob any grave
+    -- }
+}
+
 -- Translations
 Config.Language = { -- ITS CONFIGURED HERE AFTER U GET THE SCRIPT
     [1] = {text = "EXAMPLE TRANSLATION",},
@@ -120,6 +132,7 @@ Config.Language = { -- ITS CONFIGURED HERE AFTER U GET THE SCRIPT
     [19] = {text = "EXAMPLE TRANSLATION",},
     [20] = {text = "EXAMPLE TRANSLATION",},
     [21] = {text = "EXAMPLE TRANSLATION",},
+    [22] = {text = "EXAMPLE TRANSLATION",},
 }
 
 -- Notifications
