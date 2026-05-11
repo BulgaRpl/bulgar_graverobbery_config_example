@@ -53,6 +53,9 @@ Config.VORPPolice = false
 -- Use RSG Framework Duty? (This will only allert + count only on duty sheriffs if using RSG Framework Duty)
 Config.rsgDuty = false
 
+-- Use bdo-core Duty? (This will only allert + count only on duty sheriffs if using bdo-core Duty)
+Config.bdoDuty = false -- BETA
+
 -- Interaction Keys / Prompts
 Config.BlockRobbingIfPlayerIsNearRange = 3.0 -- Prevent robbing Range for an grave in the same time if player stands near you...
 Config.InteractionDistance = 0.9 -- Distance to show the rob button when holding "PressKey"
